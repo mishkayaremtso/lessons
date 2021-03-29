@@ -1,0 +1,1 @@
+[{"PlayerName": "Petya", "Score": 312, "awards": ["OR", "NV", "NY"]}, {"PlayerName": "Kek", "Score": 334, "awards": ["WF", "TX", "MI"]}]
